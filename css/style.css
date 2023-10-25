@@ -1,0 +1,35 @@
+/* RESET */
+
+*{
+    margin: 0;
+    padding: ;
+    box-sizing: border-box;
+    font-family: font-family: 'Roboto', sans-serif;
+}
+
+ul, ol {
+    padding-left: 18px;
+    list-style: none;
+}
+
+/* GENERAL */
+
+
+/* HEADER */
+
+h1 {
+    display: inline-block;
+}
+
+header {
+    background-color: white;
+    padding: 5px 10px;
+    margin-bottom: 50px;
+}
+
+header h1, header img {
+    vertical-align: middle;
+}
+
+/* MAIN */
+
